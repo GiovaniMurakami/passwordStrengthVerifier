@@ -1,6 +1,6 @@
 # Password Strength Verifier
 
-This small project rate how strong a password is based on a list of requirements.
+This small project rates how strong a password is based on a list of requirements.
 
 ## How to use?
 
